@@ -1,0 +1,10 @@
+
+[----------------------------------------]
+[FKLogger start work:  08/02/11 20:01:12 ] 
+[----------------------------------------]
+
+[错误] - Unknown Module - f:\fklogger\fkloggertest\main.cpp - 函数main    31行 的撒嬌快回答
+[调试] - Unknown Module - f:\fklogger\fkloggertest\main.cpp - 函数main    32行 還都好撒謊837的撒旦宝贝计划*（……&*&……  将比南京吧
+
+[追踪] - Unknown Module - f:\fklogger\fkloggertest\main.cpp - 函数main    33行 12dsdsads
+[信息] - Unknown Module - f:\fklogger\fkloggertest\main.cpp - 函数main    35行 款到发货vjsd

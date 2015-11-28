@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FKLogger", "FKLogger\FKLogger.vcproj", "{3E35CA55-AA27-4C8E-B724-43CF11B19CE9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FKLoggerTest", "FKLoggerTest\FKLoggerTest.vcproj", "{322D5882-E4D0-44B0-9969-3D630F5E2A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E35CA55-AA27-4C8E-B724-43CF11B19CE9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E35CA55-AA27-4C8E-B724-43CF11B19CE9}.Debug|Win32.Build.0 = Debug|Win32
+		{3E35CA55-AA27-4C8E-B724-43CF11B19CE9}.Release|Win32.ActiveCfg = Release|Win32
+		{3E35CA55-AA27-4C8E-B724-43CF11B19CE9}.Release|Win32.Build.0 = Release|Win32
+		{322D5882-E4D0-44B0-9969-3D630F5E2A9F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{322D5882-E4D0-44B0-9969-3D630F5E2A9F}.Debug|Win32.Build.0 = Debug|Win32
+		{322D5882-E4D0-44B0-9969-3D630F5E2A9F}.Release|Win32.ActiveCfg = Release|Win32
+		{322D5882-E4D0-44B0-9969-3D630F5E2A9F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
